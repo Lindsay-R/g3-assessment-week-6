@@ -5,7 +5,7 @@ class AmusementParksOrganizer
     @park_country = country_array
   end
 
-  def create_a_id_hash
+  def create_an_id_hash
 
     @park_id.map do |x|
      {x[:id]=> x }

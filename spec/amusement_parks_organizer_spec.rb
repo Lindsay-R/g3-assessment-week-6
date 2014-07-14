@@ -92,7 +92,6 @@ end
 
 describe "#create_a_country_hash" do
   it "returns a hash of from country array" do
-
     {
       "Canada" => [
         {
