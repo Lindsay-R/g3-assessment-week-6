@@ -50,7 +50,7 @@ describe AmusementParksOrganizer do
 
 
 describe "#create_an_id_hash" do
-  it "returns a hash of from id array" do
+  it "returns a hash of from id array" do  #"it" is the same as "senario"
   {
     546 => {
       :id=>546,
